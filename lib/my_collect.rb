@@ -9,3 +9,4 @@ def my_collect(students)
 end 
 
 names = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+my_collect(students)
